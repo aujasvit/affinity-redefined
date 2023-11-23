@@ -1,0 +1,1 @@
+relay_list_path = "/home/aujasvit/affinity-redefined/relay_list.dat"
